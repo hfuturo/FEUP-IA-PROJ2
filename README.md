@@ -9,3 +9,5 @@
 ## Instructions
 
 To run this project, open the `autism_dataset_for_toddlers.ipynb` file and run the cells.
+
+## Nota: 18.5
